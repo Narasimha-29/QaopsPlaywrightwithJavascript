@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","19506","@Web Test Case 2: Login User with correct email and password","Practice","2026-10-31","passed","2026-10-31","","Practice\AutomationTestcases.spec.js","",""
+"","15605","Test Case 6: Contact Us Form","Practice","2026-10-31","passed","2026-10-31","","Practice\AutomationTestcases.spec.js","",""
+"","18695","Test Case 5: Register User with existing email","Practice","2026-10-31","passed","2026-10-31","","Practice\AutomationTestcases.spec.js","",""
+"","10020","Test Case 7: Verify Test Cases Page","Practice","2026-10-31","passed","2026-10-31","","Practice\AutomationTestcases.spec.js","",""
+"","22915","@Web Test Case1: Register User","Practice","2026-10-31","passed","2026-10-31","","Practice\AutomationTestcases.spec.js","",""
+"","19401","@Web Test Case 3: Login User with incorrect email and password","Practice","2026-10-31","passed","2026-10-31","","Practice\AutomationTestcases.spec.js","",""
+"","21310","Test Case 4: Logout User","Practice","2026-10-31","passed","2026-10-31","","Practice\AutomationTestcases.spec.js","",""
